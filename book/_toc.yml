@@ -9,6 +9,8 @@ parts:
   - file: algorithms/PeriodicOrbitalMCMC.md
   - file: algorithms/TemperedSMC.md
   - file: algorithms/Pathfinder.md
+  - file: algorithms/PeriodicOrbitalMCMC.md
+  - file: algorithms/TemperedSMC.md
 - caption: Models
   chapters:
   - file: models/mlp.md
